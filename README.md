@@ -1,3 +1,7 @@
+# 💻 Tech Stack 
+
+
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
