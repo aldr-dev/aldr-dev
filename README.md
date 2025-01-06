@@ -16,7 +16,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
