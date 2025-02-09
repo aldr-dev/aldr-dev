@@ -34,29 +34,29 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="35" alt="redux logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
+  <img src="https://skillicons.dev/icons?i=materialui" height="35" alt="materialui logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=pug" height="40" alt="pug logo"  /> 
+  <img src="https://skillicons.dev/icons?i=pug" height="35" alt="pug logo"  /> 
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="35" alt="sass logo"  />
   <img width="9" />
 </div>
 
@@ -67,19 +67,19 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="35" alt="nestjs logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
 </div>
 
 ###
@@ -89,19 +89,19 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=gherkin" height="40" alt="gherkin logo"  />
+  <img src="https://skillicons.dev/icons?i=gherkin" height="35" alt="gherkin logo"  />
 </div>
 
 ###
