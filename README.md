@@ -48,6 +48,8 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="9" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
+  <img width="9" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
